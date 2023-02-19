@@ -1,0 +1,40 @@
+.table1{
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: lightgrey;
+}
+.left{
+   padding-left: 10%;
+}
+.right{
+    padding-left: 10%;
+    width: 88%;
+}
+.bottom{
+    float: right;
+}
+.img4{
+    padding-left: 10px;
+}
+.img3{
+    padding-left: 28px;
+}
+.img2
+{
+    padding-left: 13px;
+}
+.img1{
+    padding-left: 10px;
+}
+.border1{
+    border-style:solid;
+    width: 200px;
+    border-color:red;
+}
+.right{
+    position: relative;
+    bottom: 120px;
+}
+
+
+
